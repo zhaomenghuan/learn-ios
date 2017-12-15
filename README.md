@@ -1,6 +1,6 @@
-# learn-ios
+# learn-iOS
 
-IOS 开发学习案例
+iOS 开发学习案例
 
 - [UITabBarController](./examples/UITabBarController): UITabBarController
 - [FloatingButton](./examples/FloatingButton): 悬浮按钮
